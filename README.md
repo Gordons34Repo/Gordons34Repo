@@ -1,6 +1,6 @@
 <h1 align="center"><img length=50 height=50 src="https://github.com/Gordons34Repo/Gordons34Repo/assets/135652713/a162ce58-9a3a-46cb-b237-7613ae8b367c"/>Welcome to my page!<img length=50 height=50 src="https://github.com/Gordons34Repo/Gordons34Repo/assets/135652713/a162ce58-9a3a-46cb-b237-7613ae8b367c"/></h1>
 
-<p align="center">Hi, I'm Simon and I am a 4th year Computing Sciences student.
+<p align="center">Hi, I'm Simon and I am currently a Junior Software Developer.
 </p>
 
 <h3 align="center">Things I know</h3><br clear="center"/>
